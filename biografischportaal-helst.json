@@ -1,0 +1,107 @@
+{  
+   "biographies":[  
+      {  
+         "source_id":"rkdartists",
+         "publisher":"Rijksbureau voor Kunsthistorische Documentatie",
+         "url_biography":"http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&database=ChoiceArtists&search=priref=37307",
+         "author":[  
+
+         ]
+      },
+      {  
+         "source_id":"wikipedia",
+         "publisher":"wikipedia",
+         "url_biography":"http://nl.wikipedia.org/wiki/Bartholomeus_van_der_Helst",
+         "author":[  
+
+         ]
+      },
+      {  
+         "source_id":"nnbw",
+         "publisher":"Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)",
+         "url_biography":"http://www.inghist.nl/retroboeken/nnbw?source=6&page_number=751",
+         "author":[  
+            "de Gelder"
+         ]
+      },
+      {  
+         "source_id":"vdaa",
+         "publisher":"Van der Aa (Instituut voor Nederlandse Geschiedenis)",
+         "url_biography":"http://www.inghist.nl/retroboeken/vdaa?source=aa__001biog09_01.xml&page_number=502",
+         "author":[  
+
+         ]
+      },
+      {  
+         "source_id":"weyerman",
+         "publisher":"XXX",
+         "url_biography":"http://digbijzcoll.library.uu.nl/lees_gfx.php?lang=nl&W=Off&BoekID=39&PageOrder=124.00&style=fmw",
+         "author":[  
+
+         ]
+      },
+      {  
+         "source_id":"portraits",
+         "publisher":"Het Geheugen van Nederland",
+         "url_biography":"http://geheugenvannederland.nl/?/nl/items/VUMCC01:UBVU001-1-ZZZ-065",
+         "author":[  
+
+         ]
+      },
+      {  
+         "source_id":"schilderkunst",
+         "publisher":"Instituut voor Nederlandse Geschiedenis",
+         "url_biography":"http://www.inghist.nl/retroboeken/vaderlandsche_schilderkunst?page_number=396&source=I",
+         "author":[  
+
+         ]
+      }
+   ],
+   "url_publisher":"http://www.biografischportaal.nl",
+   "figures":[  
+      {  
+         "url":"http://www.rkd.nl/imagehandler/wwwopac.ashx?command=retrievecontent&imageserver=images&value=IB00041544.jpg",
+         "head":"illustratie uit RKD Artists"
+      },
+      {  
+         "url":"http://resolver.kb.nl/resolve?urn=urn:gvn:VUMCC01:UBVU001-1-ZZZ-065&role=image&size=variable",
+         "head":"Bartholomeus van der Helst (1613-1670)"
+      }
+   ],
+   "categories":[  
+      "3"
+   ],
+   "bioport_id":27680368,
+   "namen":[  
+      "Bartholomeus van der Helst"
+   ],
+   "url_biografie":"http://www.biografischportaal.nl/persoon/27680368",
+   "event":[  
+      {  
+         "text":null,
+         "when":"1613",
+         "place":"Haarlem",
+         "type":"birth"
+      },
+      {  
+         "text":null,
+         "when":null,
+         "place":null,
+         "type":"death"
+      },
+      {  
+         "text":null,
+         "when":"1670-12-16",
+         "place":"Amsterdam",
+         "type":"funeral"
+      },
+      {  
+         "text":null,
+         "when":null,
+         "place":null,
+         "type":"baptism"
+      }
+   ],
+   "naam_publisher":"Het Biografisch Portaal",
+   "sex":"1"
+}

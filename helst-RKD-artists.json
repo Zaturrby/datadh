@@ -1,0 +1,1446 @@
+{  
+   "response":{  
+      "numFound":1,
+      "start":0,
+      "maxScore":14.60348,
+      "docs":[  
+         {  
+            "id":"artists_37307",
+            "priref":37307,
+            "allowedproductstrings":[  
+               "DOWNLOAD"
+            ],
+            "database":"artists",
+            "modification":"2015-07-13T19:53:28Z",
+            "kunstenaarsnaam":"Helst, Bartholomeus van der",
+            "voorkeursnaam":"x",
+            "geslacht":"m",
+            "nationaliteit":[  
+               "Northern Netherlands"
+            ],
+            "nationaliteit_original":"tstrings_artists_nationaliteit",
+            "nationaliteit_search":[  
+               "Netherlandish",
+               "Northern Netherlands"
+            ],
+            "nationaliteit_search_original":"tstrings_artists_nationaliteit_search",
+            "nationaliteit_lref":[  
+               4
+            ],
+            "opmerking_nationaliteit":[  
+
+            ],
+            "voorkeursnaam_naam":null,
+            "spellingsvariant":[  
+               "Elst, Bartel van der",
+               "Elst, Bartelmeus van der",
+               "Elst, Bartholomeus van der",
+               "Helst, Bartel van der",
+               "Helst, Bartelmeus van der",
+               "Verelst, Bartel",
+               "Verelst, Bartelmeus",
+               "Verelst, Bartholomeus",
+               "Verhelst, Bartel",
+               "Verhelst, Bartelmeus",
+               "Verhelst, Bartholomeus"
+            ],
+            "opmerking_kunstenaarsnaam_var":[  
+
+            ],
+            "zie_ook":[  
+
+            ],
+            "opmerking_groep_samenwerking":null,
+            "familierelatie":[  
+
+            ],
+            "monogram":[  
+
+            ],
+            "monogrammeert_als":[  
+
+            ],
+            "opmerking_monogrammeert_als":null,
+            "permutatie_monogram":[  
+
+            ],
+            "opmerking_permutatie_monogram":null,
+            "geboorteplaats_lref":[  
+               112
+            ],
+            "geboorteplaats":[  
+               "Haarlem"
+            ],
+            "geboorteplaats_original":"tstrings_artists_geboorteplaats",
+            "geboorteplaats_search":[  
+               "Haarlem",
+               "Netherlands",
+               "Noord-Holland (prov.)",
+               "Europe",
+               "Wereld"
+            ],
+            "geboorteplaats_search_original":"tstrings_artists_geboorteplaats_search",
+            "geboortedatum_begin":"1613",
+            "geboortedatum_eind":"1613",
+            "geboorte_bijzonderheid":[  
+
+            ],
+            "label_geboortedatum":[  
+               "1600-1624"
+            ],
+            "label_geboortedatum_lref":[  
+               35107
+            ],
+            "sterfplaats":[  
+               "Amsterdam"
+            ],
+            "sterfplaats_original":"tstrings_artists_sterfplaats",
+            "sterfplaats_search":[  
+               "Amsterdam",
+               "Netherlands",
+               "Noord-Holland (prov.)",
+               "Europe",
+               "Wereld",
+               "[Amsterdam]"
+            ],
+            "sterfplaats_search_original":"tstrings_artists_sterfplaats_search",
+            "sterfplaats_lref":[  
+               29
+            ],
+            "sterfdatum_begin":"1670-12",
+            "sterfdatum_eind":"1670-12-16",
+            "sterfdata_plaats_bijzonderheid":[  
+               "begraven op 16 december 1670"
+            ],
+            "label_sterfdatum":[  
+               "1650-1674"
+            ],
+            "label_sterfdatum_lref":[  
+               35109
+            ],
+            "werkzame_periode_begin":[  
+
+            ],
+            "werkzame_periode_eind":[  
+
+            ],
+            "werkzame_periode_bijzonderheid":[  
+
+            ],
+            "label_periode_werkzaamheid":[  
+               "1625-1649",
+               "1650-1674"
+            ],
+            "label_periode_werkzaamh_lref":[  
+
+            ],
+            "werkzaamheid":[  
+               {  
+                  "plaats_van_werkzaamheid":"Haarlem",
+                  "plaats_van_werkzaamheid_linkref":"112",
+                  "plaats_van_werkzaamheid_en":"Haarlem",
+                  "plaats_van_werkzaamheid_link":"\/en\/explore\/thesaurus?term=112\u0026domain=PLAATS",
+                  "plaats_van_werkzaamheid_link_type":"thesaurus",
+                  "period_display":null
+               },
+               {  
+                  "plaats_v_werkzh_begindatum":"1636",
+                  "plaats_v_werkzh_bijzonderheid":"trouwde in 1636 te Amsterdam",
+                  "plaats_v_werkzh_einddatum":"1670",
+                  "plaats_van_werkzaamheid":"Amsterdam",
+                  "plaats_van_werkzaamheid_geocoordinaat_decimaal":"52.366667, 4.900000",
+                  "plaats_van_werkzaamheid_linkref":"29",
+                  "plaats_van_werkzaamheid_en":"Amsterdam",
+                  "plaats_van_werkzaamheid_link":"\/en\/explore\/thesaurus?term=29\u0026domain=PLAATS",
+                  "plaats_van_werkzaamheid_link_type":"thesaurus",
+                  "period_display":"1636 - 1670"
+               }
+            ],
+            "afbeeldingsnummer_rkd_picturae_mapping":{  
+               "0000255511":"5e594d13-196c-7284-d5ac-0fcd2d8ad2ff",
+               "0000273965":"35e96486-8f7c-0dbb-77dc-9a85f49485a3",
+               "1001127567":"e1f74cc7-14a1-f30b-b8e0-9c3f1b2098d4"
+            },
+            "picturae_images":[  
+               "5e594d13-196c-7284-d5ac-0fcd2d8ad2ff",
+               "35e96486-8f7c-0dbb-77dc-9a85f49485a3",
+               "e1f74cc7-14a1-f30b-b8e0-9c3f1b2098d4"
+            ],
+            "plaats_van_werkzaamheid_lref":[  
+
+            ],
+            "plaats_van_werkzaamheid":[  
+               "Haarlem",
+               "Amsterdam"
+            ],
+            "plaats_van_werkzaamheid_original":"tstrings_artists_plaats_van_werkzaamheid",
+            "plaats_van_werkzaamheid_search":[  
+               "Amsterdam",
+               "Netherlands",
+               "Noord-Holland (prov.)",
+               "Europe",
+               "Wereld",
+               "[Amsterdam]",
+               "Haarlem"
+            ],
+            "plaats_van_werkzaamheid_search_original":"tstrings_artists_plaats_van_werkzaamheid_search",
+            "plaats_van_werkzaamheid_linkref":[  
+               112,
+               29
+            ],
+            "kwalificatie":[  
+               "painter",
+               "draftsman"
+            ],
+            "kwalificatie_original":"tstrings_artists_kwalificatie",
+            "kwalificatie_lref":[  
+               6,
+               7
+            ],
+            "kwalificatie_search":[  
+               "draftsman",
+               "artist",
+               "people by occupation (guide term)",
+               "living organisms",
+               "Top term Subject Keywords",
+               "human (guide term)",
+               "agents (guide term)",
+               "painter"
+            ],
+            "kwalificatie_search_original":"tstrings_artists_kwalificatie_search",
+            "opmerking_kwalificatie":null,
+            "materiaal":[  
+               "oil paint"
+            ],
+            "materiaal_original":"tstrings_artists_materiaal",
+            "materiaal_lref":[  
+               37107
+            ],
+            "materiaal_search":[  
+               "oil paint",
+               "paint",
+               "Top term Subject Keywords",
+               "tools and equipment (guide term)",
+               "painting equipment",
+               "artists\u0027 materials",
+               "painting materials",
+               "object type (guide term)"
+            ],
+            "materiaal_search_original":"tstrings_artists_materiaal_search",
+            "opmerking_materiaal":null,
+            "product":[  
+
+            ],
+            "product_lref":[  
+
+            ],
+            "product_search":[  
+
+            ],
+            "opmerking_product":null,
+            "onderwerp_werkvorm":[  
+               "portrait"
+            ],
+            "onderwerp_werkvorm_original":"tstrings_artists_onderwerp_werkvorm",
+            "onderwerp_werkvorm_search":[  
+               "portrait",
+               "art genre (guide term)",
+               "Top term Subject Keywords"
+            ],
+            "onderwerp_werkvorm_search_original":"tstrings_artists_onderwerp_werkvorm_search",
+            "onderwerp_werkvorm_lref":[  
+               62883
+            ],
+            "opmerking_onderwerp_werkvorm":null,
+            "leerling_van":[  
+               "Pickenoy, Nicolaes Eliasz."
+            ],
+            "opmerking_leerling_leraar":null,
+            "leraar_van":[  
+               "Helst, Lodewijk van der"
+            ],
+            "opmerking_leraar_van":null,
+            "nagevolgd_door":[  
+
+            ],
+            "opmerking_navolging":null,
+            "navolger_van":[  
+
+            ],
+            "opmerking_navolger_van":null,
+            "beinvloed_door":[  
+
+            ],
+            "opmerking_beinvloed_door":[  
+
+            ],
+            "invloed_op":[  
+               "Flinck, Govert",
+               "Lesueur, Eustache",
+               "Hansen, Constantin",
+               "Sanders, Alexander"
+            ],
+            "opmerking_invloed":null,
+            "school_stroming":[  
+
+            ],
+            "school_stroming_search":[  
+
+            ],
+            "school_stroming_lref":[  
+
+            ],
+            "opmerking_school_stroming":null,
+            "academies":[  
+
+            ],
+            "academie":[  
+
+            ],
+            "academie_linkref":[  
+
+            ],
+            "academie_search":[  
+
+            ],
+            "opmerking_academie":[  
+
+            ],
+            "vereniging":[  
+
+            ],
+            "vereniging_lid":[  
+
+            ],
+            "vereniging_lid_lref":[  
+
+            ],
+            "vereniging_lid_search":[  
+
+            ],
+            "l_academie":[  
+
+            ],
+            "leraar_academie":[  
+
+            ],
+            "leraar_academie_linkref":[  
+
+            ],
+            "leraar_academie_search":[  
+
+            ],
+            "opmerking_leraar_academie":[  
+
+            ],
+            "winnaar":[  
+
+            ],
+            "winnaar_linkref":[  
+
+            ],
+            "winnaar_van_prijs":[  
+
+            ],
+            "winnaar_van_prijs_search":[  
+
+            ],
+            "winnaar_van_prijs_linkref":[  
+
+            ],
+            "bronnen":[  
+               {  
+                  "bron_deel_pag":"vol. 2 (1916), p. 394-421; vol. 7 (1921), p. 104-106, 298-301",
+                  "bron_literatuur":"Bredius 1915-1921",
+                  "bron_literatuur_linkref":"31300"
+               },
+               {  
+                  "bron_deel_pag":"dl. 16 (1923), p. 355-357",
+                  "bron_literatuur":"Thieme\/Becker 1907-1950",
+                  "bron_literatuur_linkref":"2301"
+               },
+               {  
+                  "bron_deel_pag":"dl. 9 [1953], p. 9-11",
+                  "bron_literatuur":"Hollstein et al. 1949-2010",
+                  "bron_literatuur_linkref":"14744"
+               },
+               {  
+                  "bron_literatuur":"Witt Checklist 1978",
+                  "bron_literatuur_linkref":"127789"
+               },
+               {  
+                  "bron_deel_pag":"dl. 14, p. 373-374",
+                  "bron_literatuur":"Turner et al. 1996",
+                  "bron_literatuur_linkref":"13638"
+               },
+               {  
+                  "bron_deel_pag":"p. 336",
+                  "bron_literatuur":"Briels 1997",
+                  "bron_literatuur_linkref":"56098"
+               },
+               {  
+                  "bron_deel_pag":"p. 15 en passim",
+                  "bron_literatuur":"Jonkman\/Geudeker 2010",
+                  "bron_literatuur_linkref":"213584"
+               },
+               {  
+                  "bron_deel_pag":"dl. 71 (2011), p. 403",
+                  "bron_literatuur":"Saur 1992-",
+                  "bron_literatuur_linkref":"2298"
+               }
+            ],
+            "literatuur":[  
+               "I.H. van Eeghen, \u0027Bartholomeus van der Helst en het Spinhuis\u0027, Maandblad Amstelodamum 52 (1965), p. 119-122",
+               "C.J. de Bruyn Kops, \u0027Vergeten zelfportretten van Govert Flinck en Bartholomeus van der Helst\u0027, Bulletin van het Rijksmuseum 13 (1965), p. 20-29",
+               "S.S. Dickey, \u0027Bartholomeus van der Helst and admiral Cortenaer: realism and idealism in Dutch heroic portraiture\u0027, Leids Kunsthistorisch Jaarboek 8 (1989), p. 227-245",
+               "D. Meyerman, \u0027Een verrassende olieverfschets door Bartholomeus van der Helst\u0027, Rotterdams jaarboekje 2010, p. 164-175",
+               "F. Grijzenhout, \u0027Michiel van Musscher and Bartholomeus van der Helst: Theft of Honour or Creative Imitation?\u0027, in: Aemulatio. Imitation, emulation and invention in Netherlandish art from 1500 to 1800. Essays in honor of Eric Jan Sluijter, Zwolle 2011, p. 393-406",
+               "S.A.C. Dudok van Heel, \u0027Gabriel Marselis en Maria van Arckel in de duinen bij Haarlem. Twee portretten door Bartholomeus van der Helst uit 1655\u0027, Maandblad Amstelodamum 99 (2012), p. 161-182",
+               "N. Middelkoop, J. van Gent, M.J. Bok, W. Kloek (red.), De Amsterdamse schutterstukken. Inrichting en gebruik van de doelengebouwen in de zeventiende eeuw\u0027, Jaarboek van het Genootschap Amstelodamum 105 (2013) (themanummer)",
+               "F. Laarmann-Westdijk, recensie van Van Gent 2011, Oud Holland 128 (2015), p. 59-61"
+            ],
+            "bronnen_overig":[  
+
+            ],
+            "standplaats":[  
+               "BD\/0134 - ONT\/Genre: General",
+               "BD\/0140 - ONT\/Figures",
+               "BD\/0144 - ONT\/Portraits and Heads",
+               "BD\/0295 - ONK\/Sculpture",
+               "BD\/0542 - ONS\/Religion, Mythology, Allegory, History and Literature 2",
+               "BD\/0558 - ONS\/Genre 2: General",
+               "BD\/0608 - ONS\/Portraits 2",
+               "BD\/0622 - ONS\/Sill Lifes: Kitchen and Market Pieces",
+               "BD\/0676 - ONS\/Original Prints (by inventor - available on request)",
+               "BD\/0700 - ONS\/Dated Works",
+               "BD\/0800 - ONS\/Unmounted Material",
+               "BD\/IB",
+               "BD\/Witt Microfiches",
+               "PDO\/Netherlandish Artists"
+            ],
+            "standplaats_original":"tstrings_artists_standplaats",
+            "standplaats_lref":[  
+               1971,
+               1972,
+               640,
+               28143,
+               23838,
+               23846,
+               4549,
+               23875,
+               441,
+               733,
+               23902,
+               27406,
+               28670,
+               28127
+            ],
+            "standplaats_search":[  
+               "PDO\/Netherlandish Artists",
+               "BD\/0134 - ONT\/Genre: General",
+               "BD\/0140 - ONT\/Figures",
+               "BD\/0144 - ONT\/Portraits and Heads",
+               "BD\/0295 - ONK\/Sculpture",
+               "BD\/0542 - ONS\/Religion, Mythology, Allegory, History and Literature 2",
+               "BD\/0558 - ONS\/Genre 2: General",
+               "BD\/0608 - ONS\/Portraits 2",
+               "BD\/0622 - ONS\/Sill Lifes: Kitchen and Market Pieces",
+               "BD\/0676 - ONS\/Original Prints (by inventor - available on request)",
+               "BD\/0700 - ONS\/Dated Works",
+               "BD\/0800 - ONS\/Unmounted Material",
+               "BD\/IB",
+               "BD\/Witt Microfiches"
+            ],
+            "standplaats_search_original":"tstrings_artists_standplaats_search",
+            "opmerking_standplaats":[  
+
+            ],
+            "opmerking_algemeen":[  
+
+            ],
+            "urls":[  
+
+            ],
+            "archiefint":[  
+
+            ],
+            "standplaats_archief":[  
+
+            ],
+            "standplaats_archief_lref":[  
+
+            ],
+            "project":[  
+
+            ],
+            "project_search":[  
+
+            ],
+            "project_lref":[  
+
+            ],
+            "copyright":[  
+
+            ],
+            "archieflocatie":[  
+
+            ],
+            "collectienaam":null,
+            "collectienaam_linkref":null,
+            "auteur":null,
+            "auteur_linkref":null,
+            "domein":[  
+
+            ],
+            "kunstwerk":[  
+               {  
+                  "afbeeldingsnummer":[  
+                     {  
+                        "object_priref":"244631",
+                        "afbeeldingsnummer":[  
+                           {  
+                              "afbeelding_path":"..\\images\\jpg\\567\\1001127567.jpg"
+                           }
+                        ]
+                     }
+                  ],
+                  "afbeeldingsnummer_lref":"244631",
+                  "link":"\/en\/explore\/images\/244631"
+               },
+               {  
+                  "afbeeldingsnummer":[  
+                     {  
+                        "object_priref":"207717",
+                        "afbeeldingsnummer":[  
+                           {  
+                              "afbeelding_path":"..\\images\\jpg\\965\\0000273965.jpg"
+                           }
+                        ]
+                     }
+                  ],
+                  "afbeeldingsnummer_lref":"207717",
+                  "link":"\/en\/explore\/images\/207717"
+               },
+               {  
+                  "afbeeldingsnummer":[  
+                     {  
+                        "object_priref":"197247",
+                        "afbeeldingsnummer":[  
+                           {  
+                              "afbeelding_path":"..\\images\\jpg\\511\\0000255511.jpg"
+                           }
+                        ]
+                     }
+                  ],
+                  "afbeeldingsnummer_lref":"197247",
+                  "link":"\/en\/explore\/images\/197247"
+               }
+            ],
+            "gewijzigd_op":"2015-07-13",
+            "ingevoerd_op":"1992-02-07",
+            "periode":[  
+               1636,
+               1637,
+               1638,
+               1639,
+               1640,
+               1641,
+               1642,
+               1643,
+               1644,
+               1645,
+               1646,
+               1647,
+               1648,
+               1649,
+               1650,
+               1651,
+               1652,
+               1653,
+               1654,
+               1655,
+               1656,
+               1657,
+               1658,
+               1659,
+               1660,
+               1661,
+               1662,
+               1663,
+               1664,
+               1665,
+               1666,
+               1667,
+               1668,
+               1669,
+               1670
+            ],
+            "plaatsen":[  
+               "Haarlem",
+               "Amsterdam"
+            ],
+            "plaatsen_search":[  
+               "Haarlem",
+               "Nederland",
+               "Noord-Holland (prov.)",
+               "Europa",
+               "Wereld",
+               "Amsterdam",
+               "[Amsterdam]"
+            ],
+            "sort_name":"Helst, Bartholomeus van der",
+            "results_in_other_databases":{  
+               "collections_trefwoord_persoon":{  
+                  "displayDatabase":"RKDcollections",
+                  "field":"kunstenaarsnaam",
+                  "filterField":"inhoudelijke_beschr.trefw.pers",
+                  "filterFieldSolr":"tstrings_collections_inhoudelijke_beschr.trefw.pers",
+                  "database":"collections",
+                  "displayRole":null,
+                  "count":0
+               },
+               "images_kunstenaar":{  
+                  "displayDatabase":"RKDimages",
+                  "field":"kunstenaarsnaam",
+                  "filterField":"kunstenaar",
+                  "filterFieldSolr":"tstrings_images_naam",
+                  "database":"images",
+                  "displayRole":"kunstenaar",
+                  "count":272
+               },
+               "images_provenance":{  
+                  "displayDatabase":"RKDimages",
+                  "field":"collectienaam",
+                  "filterField":"collectienaam",
+                  "filterFieldSolr":"tstrings_images_collectienaam",
+                  "database":"images",
+                  "displayRole":"provenance",
+                  "count":0
+               },
+               "library_onderwerp":{  
+                  "displayDatabase":"RKDlibrary",
+                  "field":"kunstenaarsnaam",
+                  "filterField":"artist",
+                  "filterFieldSolr":"tstrings_library_artist",
+                  "database":"library",
+                  "displayRole":"onderwerp",
+                  "count":12
+               },
+               "library_auteur":{  
+                  "displayDatabase":"RKDlibrary",
+                  "field":"auteur",
+                  "filterField":"author.name",
+                  "filterFieldSolr":"strings_library_author.name",
+                  "database":"library",
+                  "displayRole":"auteur",
+                  "count":0
+               },
+               "library_illustrator":{  
+                  "displayDatabase":"RKDlibrary",
+                  "field":"kunstenaarsnaam",
+                  "filterField":"illustrator.name",
+                  "filterFieldSolr":"tstrings_library_illustrator.name_search",
+                  "database":"library",
+                  "displayRole":"illustrator",
+                  "count":0
+               },
+               "excerpts_artists":{  
+                  "displayDatabase":"RKDexcerpts",
+                  "field":"kunstenaarsnaam",
+                  "filterField":"kunstenaar",
+                  "filterFieldSolr":"strings_excerpts_kunstenaar",
+                  "database":"excerpts",
+                  "displayRole":"kunstenaar",
+                  "count":1711
+               },
+               "noa":{  
+                  "configKey":"noa",
+                  "localSearchField":"kunstenaarsnaam",
+                  "foreignSearchField":"archive_creator",
+                  "urlPlaceholder":"http:\/\/www.nationaalontwerparchief.nl\/ontwerper\/%s",
+                  "urlReplaceField":"kunstenaarsnaam",
+                  "displayDatabase":"Nationaal Ontwerp Archief (NOA)",
+                  "database":"noa",
+                  "count":0,
+                  "url":"http:\/\/www.nationaalontwerparchief.nl\/ontwerper\/Helst, Bartholomeus van der"
+               }
+            },
+            "detail_url":null,
+            "geboortedatum_display":"1613",
+            "werkzame_periode_display":false,
+            "permalink":"https:\/\/rkd.nl\/explore\/artists\/37307",
+            "opensearchPermalink":"https:\/\/rkd.nl\/opensearch-eac-cpf?q=kunstenaarsnummer:37307",
+            "virtualFields":{  
+               "thumb_id":"e1f74cc7-14a1-f30b-b8e0-9c3f1b2098d4",
+               "hoofdTitel":{  
+                  "kunstenaarsnaam":{  
+                     "label":"Voorkeursnaam",
+                     "contents":"Bartholomeus van der Helst"
+                  },
+                  "voorkeursnaam_naam":{  
+                     "label":"Zie voorkeursnaam",
+                     "contents":null
+                  },
+                  "geslacht_nationaliteit":{  
+                     "contents":[  
+                        {  
+                           "type":"field",
+                           "name":"geslacht",
+                           "value":"man"
+                        },
+                        {  
+                           "type":"concat",
+                           "value":" "
+                        },
+                        {  
+                           "type":"concat",
+                           "value":"\/"
+                        },
+                        {  
+                           "type":"concat",
+                           "value":" "
+                        }
+                     ]
+                  },
+                  "opmerking_nationaliteit":{  
+                     "contents":[  
+
+                     ]
+                  },
+                  "kwalificaties":{  
+                     "contents":[  
+                        {  
+                           "type":"field",
+                           "name":"kwalificatie",
+                           "value":"painter"
+                        },
+                        {  
+                           "type":"concat",
+                           "name":"",
+                           "value":", "
+                        },
+                        {  
+                           "type":"field",
+                           "name":"kwalificatie",
+                           "value":"draftsman"
+                        }
+                     ]
+                  },
+                  "opmerking_kwalificatie":{  
+                     "contents":null
+                  }
+               },
+               "naamsvarianten":{  
+                  "label":"Naamsvarianten",
+                  "contents":{  
+                     "spellingsvarianten":{  
+                        "contents":[  
+                           "Elst, Bartel van der",
+                           "Elst, Bartelmeus van der",
+                           "Elst, Bartholomeus van der",
+                           "Helst, Bartel van der",
+                           "Helst, Bartelmeus van der",
+                           "Verelst, Bartel",
+                           "Verelst, Bartelmeus",
+                           "Verelst, Bartholomeus",
+                           "Verhelst, Bartel",
+                           "Verhelst, Bartelmeus",
+                           "Verhelst, Bartholomeus"
+                        ]
+                     },
+                     "opmerkingen":{  
+                        "contents":[  
+
+                        ]
+                     }
+                  }
+               },
+               "monogram":{  
+                  "contents":{  
+                     "monogrammeert_als":{  
+                        "label":"Monogrammeert als",
+                        "contents":{  
+                           "monogrammeert_als":{  
+                              "contents":[  
+
+                              ]
+                           },
+                           "opmerking":{  
+                              "contents":null
+                           }
+                        }
+                     },
+                     "permutatie":{  
+                        "label":"Permutatie",
+                        "contents":{  
+                           "permutatie_monogram":{  
+                              "contents":[  
+
+                              ]
+                           },
+                           "opmerking_permutatie_monogram":{  
+                              "contents":null
+                           }
+                        }
+                     }
+                  }
+               },
+               "geboorte_sterf":{  
+                  "contents":{  
+                     "geboorte":{  
+                        "label":"Geboren",
+                        "contents":[  
+                           {  
+                              "type":"field",
+                              "value":"1613"
+                           }
+                        ]
+                     },
+                     "gestorven":{  
+                        "label":"Gestorven",
+                        "contents":[  
+                           {  
+                              "type":"field",
+                              "value":"1670-12\/1670-12-16",
+                              "field":"sterfdatum_begin"
+                           },
+                           {  
+                              "type":"concat",
+                              "value":" "
+                           }
+                        ]
+                     },
+                     "gestorven_bijzonderheden":{  
+                        "contents":[  
+                           "begraven op 16 december 1670"
+                        ]
+                     }
+                  }
+               },
+               "familierelatie":{  
+                  "label":"Familierelatie",
+                  "contents":[  
+
+                  ]
+               },
+               "zie_ook":{  
+                  "label":"Zie ook",
+                  "contents":[  
+
+                  ]
+               },
+               "werkzame_periode":{  
+                  "label":"Werkzame periode",
+                  "contents":{  
+                     "periode":{  
+                        "contents":[  
+
+                        ]
+                     },
+                     "bijzonderheden":{  
+                        "contents":[  
+
+                        ]
+                     }
+                  }
+               },
+               "academies":{  
+                  "label":"Opleiding",
+                  "contents":[  
+
+                  ]
+               },
+               "werkzaam_in":{  
+                  "label":"Werkzaam in",
+                  "contents":{  
+                     "werkzaamheden":[  
+                        {  
+                           "plaats_datum":{  
+                              "contents":[  
+                                 {  
+                                    "type":"field",
+                                    "value":"Haarlem"
+                                 }
+                              ]
+                           },
+                           "bijzonderheid":{  
+                              "contents":null
+                           }
+                        },
+                        {  
+                           "plaats_datum":{  
+                              "contents":[  
+                                 {  
+                                    "type":"field",
+                                    "value":"Amsterdam"
+                                 },
+                                 {  
+                                    "type":"concat",
+                                    "value":" "
+                                 },
+                                 {  
+                                    "type":"field",
+                                    "value":"Amsterdam"
+                                 },
+                                 {  
+                                    "type":"concat",
+                                    "value":" - "
+                                 },
+                                 {  
+                                    "type":"field",
+                                    "name":"einddatum",
+                                    "value":"1670"
+                                 }
+                              ]
+                           },
+                           "bijzonderheid":{  
+                              "contents":"trouwde in 1636 te Amsterdam"
+                           }
+                        }
+                     ]
+                  }
+               },
+               "leraar_aan":{  
+                  "label":"Leraar aan",
+                  "contents":[  
+
+                  ]
+               },
+               "relaties_met_andere_kunstenaars":{  
+                  "label":"Relaties met andere kunstenaars",
+                  "contents":{  
+                     "leerling_van":{  
+                        "label":"Leerling van",
+                        "contents":[  
+                           "Pickenoy, Nicolaes Eliasz."
+                        ]
+                     },
+                     "opmerking_leerling_leraar":{  
+                        "contents":null
+                     },
+                     "leraar_van":{  
+                        "label":"Leraar van",
+                        "contents":[  
+                           "Helst, Lodewijk van der"
+                        ]
+                     },
+                     "opmerking_leraar_van":{  
+                        "contents":null
+                     },
+                     "navolger_van":{  
+                        "label":"Navolger van",
+                        "contents":[  
+
+                        ]
+                     },
+                     "opmerking_navolger_van":{  
+                        "contents":null
+                     },
+                     "nagevolgd_door":{  
+                        "label":"Nagevolgd door",
+                        "contents":[  
+
+                        ]
+                     },
+                     "opmerking_navolging":{  
+                        "contents":null
+                     },
+                     "beinvloed_door":{  
+                        "contents":[  
+
+                        ]
+                     },
+                     "opmerking_beinvloed_door":{  
+                        "contents":[  
+
+                        ]
+                     },
+                     "invloed_op":{  
+                        "contents":[  
+                           "Flinck, Govert",
+                           "Lesueur, Eustache",
+                           "Hansen, Constantin",
+                           "Sanders, Alexander"
+                        ]
+                     },
+                     "opmerking_invloed_op":{  
+                        "contents":null
+                     }
+                  }
+               },
+               "onderwerpen":{  
+                  "label":"Onderwerpen",
+                  "contents":{  
+                     "werkvormen":{  
+                        "contents":[  
+                           "portrait"
+                        ]
+                     },
+                     "opmerking":{  
+                        "contents":null
+                     }
+                  }
+               },
+               "materialen":{  
+                  "contents":{  
+                     "materialen":{  
+                        "label":"Materialen",
+                        "contents":[  
+                           {  
+                              "type":"field",
+                              "name":"materiaal",
+                              "value":"oil paint"
+                           }
+                        ]
+                     },
+                     "opmerking_materialen":{  
+                        "contents":null
+                     },
+                     "producten":{  
+                        "label":"Producten",
+                        "contents":[  
+
+                        ]
+                     },
+                     "opmerking_producten":{  
+                        "contents":null
+                     }
+                  }
+               },
+               "stroming":{  
+                  "contents":{  
+                     "stromingen":{  
+                        "label":"Stroming",
+                        "contents":[  
+
+                        ]
+                     },
+                     "opmerking":{  
+                        "contents":null
+                     }
+                  }
+               },
+               "prijzen":{  
+                  "contents":[  
+
+                  ],
+                  "label":"Prijzen"
+               },
+               "lid_van":{  
+                  "contents":[  
+
+                  ],
+                  "label":"Lid van"
+               },
+               "overige_literatuur":{  
+                  "label":"Overige literatuur",
+                  "contents":{  
+                     "bronnen":{  
+                        "contents":[  
+                           [  
+                              {  
+                                 "type":"field",
+                                 "value":"Bredius 1915-1921"
+                              },
+                              {  
+                                 "type":"concat",
+                                 "value":", "
+                              },
+                              {  
+                                 "type":"field",
+                                 "value":"vol. 2 (1916), p. 394-421; vol. 7 (1921), p. 104-106, 298-301"
+                              }
+                           ],
+                           [  
+                              {  
+                                 "type":"field",
+                                 "value":"Thieme\/Becker 1907-1950"
+                              },
+                              {  
+                                 "type":"concat",
+                                 "value":", "
+                              },
+                              {  
+                                 "type":"field",
+                                 "value":"dl. 16 (1923), p. 355-357"
+                              }
+                           ],
+                           [  
+                              {  
+                                 "type":"field",
+                                 "value":"Hollstein et al. 1949-2010"
+                              },
+                              {  
+                                 "type":"concat",
+                                 "value":", "
+                              },
+                              {  
+                                 "type":"field",
+                                 "value":"dl. 9 [1953], p. 9-11"
+                              }
+                           ],
+                           [  
+                              {  
+                                 "type":"field",
+                                 "value":"Witt Checklist 1978"
+                              }
+                           ],
+                           [  
+                              {  
+                                 "type":"field",
+                                 "value":"Turner et al. 1996"
+                              },
+                              {  
+                                 "type":"concat",
+                                 "value":", "
+                              },
+                              {  
+                                 "type":"field",
+                                 "value":"dl. 14, p. 373-374"
+                              }
+                           ],
+                           [  
+                              {  
+                                 "type":"field",
+                                 "value":"Briels 1997"
+                              },
+                              {  
+                                 "type":"concat",
+                                 "value":", "
+                              },
+                              {  
+                                 "type":"field",
+                                 "value":"p. 336"
+                              }
+                           ],
+                           [  
+                              {  
+                                 "type":"field",
+                                 "value":"Jonkman\/Geudeker 2010"
+                              },
+                              {  
+                                 "type":"concat",
+                                 "value":", "
+                              },
+                              {  
+                                 "type":"field",
+                                 "value":"p. 15 en passim"
+                              }
+                           ],
+                           [  
+                              {  
+                                 "type":"field",
+                                 "value":"Saur 1992-"
+                              },
+                              {  
+                                 "type":"concat",
+                                 "value":", "
+                              },
+                              {  
+                                 "type":"field",
+                                 "value":"dl. 71 (2011), p. 403"
+                              }
+                           ]
+                        ]
+                     },
+                     "literatuur":{  
+                        "contents":[  
+                           "I.H. van Eeghen, \u0027Bartholomeus van der Helst en het Spinhuis\u0027, Maandblad Amstelodamum 52 (1965), p. 119-122",
+                           "C.J. de Bruyn Kops, \u0027Vergeten zelfportretten van Govert Flinck en Bartholomeus van der Helst\u0027, Bulletin van het Rijksmuseum 13 (1965), p. 20-29",
+                           "S.S. Dickey, \u0027Bartholomeus van der Helst and admiral Cortenaer: realism and idealism in Dutch heroic portraiture\u0027, Leids Kunsthistorisch Jaarboek 8 (1989), p. 227-245",
+                           "D. Meyerman, \u0027Een verrassende olieverfschets door Bartholomeus van der Helst\u0027, Rotterdams jaarboekje 2010, p. 164-175",
+                           "F. Grijzenhout, \u0027Michiel van Musscher and Bartholomeus van der Helst: Theft of Honour or Creative Imitation?\u0027, in: Aemulatio. Imitation, emulation and invention in Netherlandish art from 1500 to 1800. Essays in honor of Eric Jan Sluijter, Zwolle 2011, p. 393-406",
+                           "S.A.C. Dudok van Heel, \u0027Gabriel Marselis en Maria van Arckel in de duinen bij Haarlem. Twee portretten door Bartholomeus van der Helst uit 1655\u0027, Maandblad Amstelodamum 99 (2012), p. 161-182",
+                           "N. Middelkoop, J. van Gent, M.J. Bok, W. Kloek (red.), De Amsterdamse schutterstukken. Inrichting en gebruik van de doelengebouwen in de zeventiende eeuw\u0027, Jaarboek van het Genootschap Amstelodamum 105 (2013) (themanummer)",
+                           "F. Laarmann-Westdijk, recensie van Van Gent 2011, Oud Holland 128 (2015), p. 59-61"
+                        ]
+                     },
+                     "bronnen_overig":{  
+                        "contents":[  
+
+                        ]
+                     }
+                  }
+               },
+               "documentatie_komt_voor_project":{  
+                  "contents":{  
+                     "komt_voor_in":{  
+                        "label":"Komt voor in",
+                        "contents":[  
+
+                        ]
+                     },
+                     "projecten":{  
+                        "label":"Projecten",
+                        "contents":[  
+
+                        ]
+                     }
+                  }
+               },
+               "archief_berust_bij":{  
+                  "contents":[  
+
+                  ]
+               },
+               "overige_opmerkingen":[  
+                  ""
+               ],
+               "suggested":[  
+                  {  
+                     "field":"geboortedatum_begin",
+                     "database":"artists",
+                     "value":"1613",
+                     "filterField":"geboortedatum_begin",
+                     "url":"\/en\/explore\/artists?filters%5Bgeboortedatum_begin%5D=1613"
+                  },
+                  {  
+                     "field":"sterfplaats",
+                     "database":"artists",
+                     "value":"Amsterdam",
+                     "filterField":"sterfplaats",
+                     "url":"\/en\/explore\/artists?filters%5Bsterfplaats%5D=Amsterdam"
+                  },
+                  {  
+                     "field":"plaats_van_werkzaamheid",
+                     "database":"artists",
+                     "value":"Haarlem",
+                     "filterField":"plaats_van_werkzaamheid",
+                     "url":"\/en\/explore\/artists?filters%5Bplaats_van_werkzaamheid%5D=Haarlem"
+                  },
+                  {  
+                     "field":"plaats_van_werkzaamheid",
+                     "database":"artists",
+                     "value":"Amsterdam",
+                     "filterField":"plaats_van_werkzaamheid",
+                     "url":"\/en\/explore\/artists?filters%5Bplaats_van_werkzaamheid%5D=Amsterdam"
+                  },
+                  {  
+                     "field":"kwalificatie",
+                     "database":"artists",
+                     "value":"painter",
+                     "filterField":"kwalificatie",
+                     "url":"\/en\/explore\/artists?filters%5Bkwalificatie%5D=painter"
+                  },
+                  {  
+                     "field":"kwalificatie",
+                     "database":"artists",
+                     "value":"draftsman",
+                     "filterField":"kwalificatie",
+                     "url":"\/en\/explore\/artists?filters%5Bkwalificatie%5D=draftsman"
+                  },
+                  {  
+                     "field":"materiaal",
+                     "database":"artists",
+                     "value":"oil paint",
+                     "filterField":"materiaal",
+                     "url":"\/en\/explore\/artists?filters%5Bmateriaal%5D=oil+paint"
+                  },
+                  {  
+                     "field":"onderwerp_werkvorm",
+                     "database":"artists",
+                     "value":"portrait",
+                     "filterField":"onderwerp_werkvorm",
+                     "url":"\/en\/explore\/artists?filters%5Bonderwerp_werkvorm%5D=portrait"
+                  }
+               ],
+               "results_in_other_databases":{  
+                  "collections_trefwoord_persoon":{  
+                     "displayDatabase":"RKDcollections",
+                     "field":"kunstenaarsnaam",
+                     "filterField":"inhoudelijke_beschr.trefw.pers",
+                     "filterFieldSolr":"tstrings_collections_inhoudelijke_beschr.trefw.pers",
+                     "database":"collections",
+                     "displayRole":null,
+                     "count":0,
+                     "url":"\/en\/explore\/collections?filters%5Binhoudelijke_beschr.trefw.pers%5D=Helst%2C+Bartholomeus+van+der"
+                  },
+                  "images_kunstenaar":{  
+                     "displayDatabase":"RKDimages",
+                     "field":"kunstenaarsnaam",
+                     "filterField":"kunstenaar",
+                     "filterFieldSolr":"tstrings_images_naam",
+                     "database":"images",
+                     "displayRole":"kunstenaar",
+                     "count":272,
+                     "url":"\/en\/explore\/images?filters%5Bkunstenaar%5D=Helst%2C+Bartholomeus+van+der"
+                  },
+                  "images_provenance":{  
+                     "displayDatabase":"RKDimages",
+                     "field":"collectienaam",
+                     "filterField":"collectienaam",
+                     "filterFieldSolr":"tstrings_images_collectienaam",
+                     "database":"images",
+                     "displayRole":"provenance",
+                     "count":0,
+                     "url":"\/en\/explore\/images?"
+                  },
+                  "library_onderwerp":{  
+                     "displayDatabase":"RKDlibrary",
+                     "field":"kunstenaarsnaam",
+                     "filterField":"artist",
+                     "filterFieldSolr":"tstrings_library_artist",
+                     "database":"library",
+                     "displayRole":"onderwerp",
+                     "count":12,
+                     "url":"\/en\/explore\/library?filters%5Bartist%5D=Helst%2C+Bartholomeus+van+der"
+                  },
+                  "library_auteur":{  
+                     "displayDatabase":"RKDlibrary",
+                     "field":"auteur",
+                     "filterField":"author.name",
+                     "filterFieldSolr":"strings_library_author.name",
+                     "database":"library",
+                     "displayRole":"auteur",
+                     "count":0,
+                     "url":"\/en\/explore\/library?"
+                  },
+                  "library_illustrator":{  
+                     "displayDatabase":"RKDlibrary",
+                     "field":"kunstenaarsnaam",
+                     "filterField":"illustrator.name",
+                     "filterFieldSolr":"tstrings_library_illustrator.name_search",
+                     "database":"library",
+                     "displayRole":"illustrator",
+                     "count":0,
+                     "url":"\/en\/explore\/library?filters%5Billustrator.name%5D=Helst%2C+Bartholomeus+van+der"
+                  },
+                  "excerpts_artists":{  
+                     "displayDatabase":"RKDexcerpts",
+                     "field":"kunstenaarsnaam",
+                     "filterField":"kunstenaar",
+                     "filterFieldSolr":"strings_excerpts_kunstenaar",
+                     "database":"excerpts",
+                     "displayRole":"kunstenaar",
+                     "count":1711,
+                     "url":"\/en\/explore\/excerpts?filters%5Bkunstenaar%5D=Helst%2C+Bartholomeus+van+der"
+                  },
+                  "noa":{  
+                     "configKey":"noa",
+                     "localSearchField":"kunstenaarsnaam",
+                     "foreignSearchField":"archive_creator",
+                     "urlPlaceholder":"http:\/\/www.nationaalontwerparchief.nl\/ontwerper\/%s",
+                     "urlReplaceField":"kunstenaarsnaam",
+                     "displayDatabase":"Nationaal Ontwerp Archief (NOA)",
+                     "database":"noa",
+                     "count":0,
+                     "url":"http:\/\/www.nationaalontwerparchief.nl\/ontwerper\/Helst, Bartholomeus van der"
+                  }
+               }
+            }
+         }
+      ]
+   },
+   "facet_counts":{  
+      "facet_queries":[  
+
+      ],
+      "facet_fields":{  
+         "database":[  
+            "artists",
+            1,
+            "collections",
+            0,
+            "excerpts",
+            0,
+            "images",
+            0,
+            "library",
+            0
+         ]
+      },
+      "facet_dates":[  
+
+      ],
+      "facet_ranges":[  
+
+      ]
+   },
+   "language":"en",
+   "options":{  
+      "images":{  
+         "servers":{  
+            "picturae":"\/\/images.memorix.nl\/rkd\/thumb\/",
+            "rkd":"\/\/imagehandler.rkd.nl\/wwwopac.ashx?command=getcontent\u0026server=images\u0026value="
+         },
+         "usePicturaeIfPossible":true
+      },
+      "base_url":"\/en",
+      "baseurl":"",
+      "baseurl_facetvalues":"",
+      "baseurl_permalink":"https:\/\/rkd.nl",
+      "bibl_form_images":{  
+         "bf_boek":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_boek_groot.png",
+         "bf_periodiek":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_tijdschrift_groot.png",
+         "bf_artikel":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_artikel_groot.png",
+         "bf_av":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_audiovis_groot.png",
+         "bf_collectie":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_collcatalogus_groot.png",
+         "bf_tentoonstelling":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_tentcatalogus_groot.png",
+         "bf_veiling":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_veilingcatalogus_groot.png",
+         "bf_lexicon":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_lexicon_groot.png",
+         "bf_preciosa":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_preciosa_groot.png",
+         "bf_kunstenaar":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_kunstenaarsboek_groot.png",
+         "bf_digi":"\/templates\/rkd\/img\/icons\/library\/large\/rkd_icon_library_digipublicatie_groot.png"
+      },
+      "contact_td":{  
+         "url":"contact-td",
+         "params":{  
+            "tmpl":"ajax",
+            "layout":"td"
+         }
+      },
+      "thesaurus":{  
+         "aat_url":"http:\/\/browser.aat-ned.nl",
+         "iconclass_url":"http:\/\/www.iconclass.org\/rkd"
+      },
+      "language":"en",
+      "suggestions":{  
+         "geboortedatum_begin":[  
+
+         ],
+         "sterfplaats":[  
+
+         ],
+         "plaats_van_werkzaamheid":[  
+
+         ],
+         "kwalificatie":[  
+
+         ],
+         "materiaal":[  
+
+         ],
+         "product":[  
+
+         ],
+         "onderwerp_werkvorm":[  
+
+         ],
+         "school_stroming":[  
+
+         ],
+         "academie":[  
+
+         ],
+         "vereniging_lid":[  
+
+         ],
+         "leraar_academie":[  
+
+         ],
+         "winnaar_van_prijs":[  
+
+         ],
+         "collectienaam":[  
+
+         ],
+         "auteur":[  
+
+         ],
+         "standplaats_archief":[  
+
+         ]
+      },
+      "database":"artists"
+   }
+}
